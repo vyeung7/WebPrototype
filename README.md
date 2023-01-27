@@ -21,7 +21,9 @@ style="float: left; margin-right: 10px; margin-bottom: 5px;"/>
 <p> 
 Hello everyone! The art movement I'd like to share about is 
 </br>
-the rise of the Lowbrow aka Pop Surrealism movement.
+the rise of the Lowbrow aka Pop Surrealism movement. 
+</br>
+Feel free to look around.
 </br>
 
 </p>
