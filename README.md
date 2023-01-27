@@ -15,7 +15,7 @@
 
 <h1>Welcome :)</h1>
 <div class="jean'>
-<img src="WebProtoype/jean.jpg" height="550" width="400"
+<img src="media/jean.jpg" height="550" width="400"
 style="float: left; margin-right: 10px; margin-bottom: 5px;"/>
 
 <p> 
