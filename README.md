@@ -8,8 +8,8 @@
 	<nav>
 		<ul>
 			<li><a href="homepage.html">Home</a></li>
-			<li><a href="Movement">Home</a></li>
-			<li><a href="about">Home</a></li>
+			<li><a href="Movement">Movement</a></li>
+			<li><a href="about">about</a></li>
 		</ul>
 	</nav>
 
