@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,14 +7,14 @@
 	<nav>
 		<ul>
 			<li><a href="homepage.html">Home</a></li>
-			<li><a href="Movement">Home</a></li>
-			<li><a href="about">Home</a></li>
+			<li><a href="Movement">Movement</a></li>
+			<li><a href="about">About</a></li>
 		</ul>
 	</nav>
 
 <h1>Welcome :)</h1>
 <div class="jean'>
-<img src="jean.jpg" height="550" width="400" alt="photo of me"
+<img src="media/jean.jpg" height="550" width="400"
 style="float: left; margin-right: 10px; margin-bottom: 5px;"/>
 
 <p> 
