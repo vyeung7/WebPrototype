@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,6 +19,7 @@
 </br>
 <h1>Pop Surrealism</h1>
 </center>
+<<<<<<< Updated upstream
 
 </br>
 </br>
@@ -26,6 +28,16 @@
 <center>
 	<img src="media/jean.jpg" height="350" width="400"/>
 
+=======
+
+</br>
+</br>
+
+<section id="section1">
+<center>
+	<img src="media/jean.jpg" height="350" width="400"/>
+
+>>>>>>> Stashed changes
 	<div class="text">
 		Hello everyone!
 		</br>
@@ -52,6 +64,17 @@
 
 </div>
 </br>
+<<<<<<< Updated upstream
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+=======
+>>>>>>> Stashed changes
 </br>
 </br>
 </br>
@@ -65,6 +88,10 @@
 </br>
 
 
+<<<<<<< Updated upstream
+
+=======
+>>>>>>> Stashed changes
 <center>
 <p>
 	These images share similar characteristics that define the
